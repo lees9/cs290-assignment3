@@ -1,1 +1,33 @@
 You log goes in this  file.
+
+Work session 2:
+Start: Sat, 31 Jan 2015 19:30:00 -0800
+ End: Sat, 31 Jan 2015 22:58:47 -0800
+Tasks: finished objects
+
+Start: Sat, 31 Jan 2015 19:30:00 -0800
+ End: Sat, 31 Jan 2015 22:12:08 -0800
+Tasks: finished variables and fixed objects
+
+Start: Sat, 31 Jan 2015 19:30:00 -0800
+ End: Sat, 31 Jan 2015 21:29:58 -0800
+Tasks: Checking objects
+
+Start: Sat, 31 Jan 2015 19:30:00 -0800
+ End: Sat, 31 Jan 2015 20:17:49 -0800
+Tasks: functions.js completed
+
+
+Work session 1:
+
+Start: Fri, 30 Jan 2015 21:22:00 -0800
+ End: Fri, 30 Jan 2015 22:15:42 -0800
+Tasks: added useless function
+
+Start: Fri, 30 Jan 2015 21:22:00 -0800
+ End: Fri, 30 Jan 2015 21:47:26 -0800
+Tasks: Cloned repo from assignment page
+
+Start: Fri, 30 Jan 2015 21:22:00 -0800
+ End: Fri, 30 Jan 2015 21:41:00 -0800
+Tasks: :tada: Added .gitattributes & .gitignore files
