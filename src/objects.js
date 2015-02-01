@@ -7,9 +7,9 @@
 * It should be returned directly by the following function
 * @return {object} - the object literal
 */
+
 function returnObjectLiteral(){
-	
-	return 0;
+	return {type: "Goldfish", brand: "Pepperidge Farm", flavor: "Cheddar", count: 2000};
 }
 
 /**
@@ -36,55 +36,6 @@ function returnObjectLiteral(){
 */
 
 //your code here
-function MessageLog(user) {
-	this.user = user;
-	this.sentMessages = [];
-	this.recMessages = [];
-	this.totSent = 0;
-	this.totRec = 0;
-	this.logMessage = function(messageText, direction){
-		if (direction == 0)
-		{
-			if (this.sentMessages.length > 5)
-			{
-				for (i = 4; i > 0; i--)
-				{
-					this.sentMessages[i] = this.sentMessages[i-1];
-				}
-			}
-			this.sentMessages[0] = messageText;
-			this.totSent++;
-		}
-		if (direction == 1)
-		{
-			if (this.recMessages.length > 5)
-			{
-				for (i = 4; i > 0; i--)
-				{
-					this.recMessages[i] = this.recMessages[i-1];
-				}
-			this.recMessages[0] = messageText;
-			this.totRec++;
-			}
-		}
-	}
-		
-	this.getSentMessage(n);{
-		return this.sentMessages[n];
-	}
-	this.totalSent(){
-		return this.totSent;
-	}
-	this.totalReceived(){
-		return  this.totRec;
-	}
-};
-	
-	
-	
-	
-	
-	
 
 //end your code
 
@@ -94,10 +45,7 @@ function MessageLog(user) {
 * received.
 */
 //your code here
-MessageLog.prototype.lastReceivedMessage(){
-	
-	return this.recMessages[0];
-};
+
 //end your code
 
 /**
