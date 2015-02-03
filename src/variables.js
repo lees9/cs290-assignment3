@@ -1,3 +1,9 @@
+<!-- Name: Sang Hoon Lee -->
+<!-- Class: CS290 Winter 2015 -->
+<!-- Assignment: Assignment 3 part 1 -->
+<!-- Date: 02/08/2015 -->
+<!-- Filename: variables.js -->
+
 /*
 Input:
 a: a whole, positive number

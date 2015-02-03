@@ -1,3 +1,8 @@
+<!-- Name: Sang Hoon Lee -->
+<!-- Class: CS290 Winter 2015 -->
+<!-- Assignment: Assignment 3 part 1 -->
+<!-- Date: 02/08/2015 -->
+<!-- Filename: function.js -->
 /**
 * the \@param notation indicates an input paramater for a function. For example
 * @param {string} foobar - indicates the function should accept a string

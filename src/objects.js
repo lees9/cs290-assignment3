@@ -1,3 +1,9 @@
+<!-- Name: Sang Hoon Lee -->
+<!-- Class: CS290 Winter 2015 -->
+<!-- Assignment: Assignment 3 part 1 -->
+<!-- Date: 02/08/2015 -->
+<!-- Filename: objects.js-->
+
 /**
 * Create an object literal with the following key value pairs:
 * type: {string} 'Goldfish'
