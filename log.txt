@@ -1,5 +1,9 @@
 You log goes in this  file.
 
+Start: Mon, 01 Feb 2015 18:16:28 -0800
+ End: Mon, 01 Feb 2015 18:16:28 -0800
+Tasks: Added name and assignment number
+
 Work session 2:
 Start: Sat, 31 Jan 2015 19:30:00 -0800
  End: Sat, 31 Jan 2015 22:58:47 -0800
